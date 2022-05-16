@@ -1,0 +1,3 @@
+[submodule "mo2"]
+	path = mo2
+	url = https://github.com/Badee-Salloum/mo2.git
